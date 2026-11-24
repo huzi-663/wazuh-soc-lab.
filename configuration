@@ -1,0 +1,4 @@
+<!-- Documentation snippet only - not the full agent configuration (/var/ossec/etc/ossec.conf) -->
+<syscheck>
+  <directories realtime="yes" check_all="yes">/home/kali/SOC-Lab/FIM</directories>
+</syscheck>
